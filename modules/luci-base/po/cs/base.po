@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2014-05-31 13:59+0200\n"
-"Last-Translator: koli <lukas.koluch@gmail.com>\n"
+"PO-Revision-Date: 2016-02-26 19:53+0200\n"
+"Last-Translator: S474N <translate@s474n.com>\n"
 "Language-Team: none\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1397,7 +1397,7 @@ msgid "Interfaces"
 msgstr "Rozhraní"
 
 msgid "Internal"
-msgstr ""
+msgstr "Vnitřní"
 
 # Není co dodat.
 msgid "Internal Server Error"
@@ -1482,13 +1482,13 @@ msgid "Leaf"
 msgstr ""
 
 msgid "Lease time"
-msgstr ""
+msgstr "Doba trvání zápůjčky"
 
 msgid "Lease validity time"
 msgstr "Doba platnosti zápůjčky"
 
 msgid "Leasefile"
-msgstr "Soubor zájpůjček"
+msgstr "Soubor zápůjček"
 
 msgid "Leasetime"
 msgstr "Doba trvání zápůjčky"
@@ -1512,10 +1512,10 @@ msgid "Line Attenuation"
 msgstr ""
 
 msgid "Line Speed"
-msgstr ""
+msgstr "Rychlost linky"
 
 msgid "Line State"
-msgstr ""
+msgstr "Stav linky"
 
 msgid "Link On"
 msgstr "Odkaz na"
@@ -1528,7 +1528,7 @@ msgstr ""
 "přeposílat požadavky"
 
 msgid "List of SSH key files for auth"
-msgstr ""
+msgstr "Seznam SSH klíčů pro autorizaci"
 
 msgid "List of domains to allow RFC1918 responses for"
 msgstr "Seznam domén, pro které povolit odpovědi podle RFC1918"
@@ -1547,13 +1547,13 @@ msgid "Load"
 msgstr "Zátěž"
 
 msgid "Load Average"
-msgstr "Zátěž průměrná"
+msgstr "Průměrná zátěž"
 
 msgid "Loading"
 msgstr "Načítání"
 
 msgid "Local IP address to assign"
-msgstr ""
+msgstr "Přiřadit místní IP adresu"
 
 msgid "Local IPv4 address"
 msgstr "Místní IPv4 adresa"
